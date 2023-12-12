@@ -1,0 +1,278 @@
+[
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/yaml-cpp",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/yaml-cpp.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\yaml-cpp.dir\\src\\contrib\\graphbuilder.cpp.obj -c C:\\cpp_hackathon\\yaml-cpp\\src\\contrib\\graphbuilder.cpp",
+  "file": "C:/cpp_hackathon/yaml-cpp/src/contrib/graphbuilder.cpp",
+  "output": "yaml-cpp/CMakeFiles/yaml-cpp.dir/src/contrib/graphbuilder.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/yaml-cpp",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/yaml-cpp.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\yaml-cpp.dir\\src\\contrib\\graphbuilderadapter.cpp.obj -c C:\\cpp_hackathon\\yaml-cpp\\src\\contrib\\graphbuilderadapter.cpp",
+  "file": "C:/cpp_hackathon/yaml-cpp/src/contrib/graphbuilderadapter.cpp",
+  "output": "yaml-cpp/CMakeFiles/yaml-cpp.dir/src/contrib/graphbuilderadapter.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/yaml-cpp",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/yaml-cpp.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\yaml-cpp.dir\\src\\binary.cpp.obj -c C:\\cpp_hackathon\\yaml-cpp\\src\\binary.cpp",
+  "file": "C:/cpp_hackathon/yaml-cpp/src/binary.cpp",
+  "output": "yaml-cpp/CMakeFiles/yaml-cpp.dir/src/binary.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/yaml-cpp",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/yaml-cpp.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\yaml-cpp.dir\\src\\convert.cpp.obj -c C:\\cpp_hackathon\\yaml-cpp\\src\\convert.cpp",
+  "file": "C:/cpp_hackathon/yaml-cpp/src/convert.cpp",
+  "output": "yaml-cpp/CMakeFiles/yaml-cpp.dir/src/convert.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/yaml-cpp",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/yaml-cpp.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\yaml-cpp.dir\\src\\depthguard.cpp.obj -c C:\\cpp_hackathon\\yaml-cpp\\src\\depthguard.cpp",
+  "file": "C:/cpp_hackathon/yaml-cpp/src/depthguard.cpp",
+  "output": "yaml-cpp/CMakeFiles/yaml-cpp.dir/src/depthguard.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/yaml-cpp",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/yaml-cpp.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\yaml-cpp.dir\\src\\directives.cpp.obj -c C:\\cpp_hackathon\\yaml-cpp\\src\\directives.cpp",
+  "file": "C:/cpp_hackathon/yaml-cpp/src/directives.cpp",
+  "output": "yaml-cpp/CMakeFiles/yaml-cpp.dir/src/directives.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/yaml-cpp",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/yaml-cpp.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\yaml-cpp.dir\\src\\emit.cpp.obj -c C:\\cpp_hackathon\\yaml-cpp\\src\\emit.cpp",
+  "file": "C:/cpp_hackathon/yaml-cpp/src/emit.cpp",
+  "output": "yaml-cpp/CMakeFiles/yaml-cpp.dir/src/emit.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/yaml-cpp",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/yaml-cpp.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\yaml-cpp.dir\\src\\emitfromevents.cpp.obj -c C:\\cpp_hackathon\\yaml-cpp\\src\\emitfromevents.cpp",
+  "file": "C:/cpp_hackathon/yaml-cpp/src/emitfromevents.cpp",
+  "output": "yaml-cpp/CMakeFiles/yaml-cpp.dir/src/emitfromevents.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/yaml-cpp",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/yaml-cpp.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\yaml-cpp.dir\\src\\emitter.cpp.obj -c C:\\cpp_hackathon\\yaml-cpp\\src\\emitter.cpp",
+  "file": "C:/cpp_hackathon/yaml-cpp/src/emitter.cpp",
+  "output": "yaml-cpp/CMakeFiles/yaml-cpp.dir/src/emitter.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/yaml-cpp",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/yaml-cpp.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\yaml-cpp.dir\\src\\emitterstate.cpp.obj -c C:\\cpp_hackathon\\yaml-cpp\\src\\emitterstate.cpp",
+  "file": "C:/cpp_hackathon/yaml-cpp/src/emitterstate.cpp",
+  "output": "yaml-cpp/CMakeFiles/yaml-cpp.dir/src/emitterstate.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/yaml-cpp",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/yaml-cpp.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\yaml-cpp.dir\\src\\emitterutils.cpp.obj -c C:\\cpp_hackathon\\yaml-cpp\\src\\emitterutils.cpp",
+  "file": "C:/cpp_hackathon/yaml-cpp/src/emitterutils.cpp",
+  "output": "yaml-cpp/CMakeFiles/yaml-cpp.dir/src/emitterutils.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/yaml-cpp",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/yaml-cpp.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\yaml-cpp.dir\\src\\exceptions.cpp.obj -c C:\\cpp_hackathon\\yaml-cpp\\src\\exceptions.cpp",
+  "file": "C:/cpp_hackathon/yaml-cpp/src/exceptions.cpp",
+  "output": "yaml-cpp/CMakeFiles/yaml-cpp.dir/src/exceptions.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/yaml-cpp",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/yaml-cpp.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\yaml-cpp.dir\\src\\exp.cpp.obj -c C:\\cpp_hackathon\\yaml-cpp\\src\\exp.cpp",
+  "file": "C:/cpp_hackathon/yaml-cpp/src/exp.cpp",
+  "output": "yaml-cpp/CMakeFiles/yaml-cpp.dir/src/exp.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/yaml-cpp",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/yaml-cpp.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\yaml-cpp.dir\\src\\memory.cpp.obj -c C:\\cpp_hackathon\\yaml-cpp\\src\\memory.cpp",
+  "file": "C:/cpp_hackathon/yaml-cpp/src/memory.cpp",
+  "output": "yaml-cpp/CMakeFiles/yaml-cpp.dir/src/memory.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/yaml-cpp",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/yaml-cpp.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\yaml-cpp.dir\\src\\node.cpp.obj -c C:\\cpp_hackathon\\yaml-cpp\\src\\node.cpp",
+  "file": "C:/cpp_hackathon/yaml-cpp/src/node.cpp",
+  "output": "yaml-cpp/CMakeFiles/yaml-cpp.dir/src/node.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/yaml-cpp",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/yaml-cpp.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\yaml-cpp.dir\\src\\node_data.cpp.obj -c C:\\cpp_hackathon\\yaml-cpp\\src\\node_data.cpp",
+  "file": "C:/cpp_hackathon/yaml-cpp/src/node_data.cpp",
+  "output": "yaml-cpp/CMakeFiles/yaml-cpp.dir/src/node_data.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/yaml-cpp",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/yaml-cpp.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\yaml-cpp.dir\\src\\nodebuilder.cpp.obj -c C:\\cpp_hackathon\\yaml-cpp\\src\\nodebuilder.cpp",
+  "file": "C:/cpp_hackathon/yaml-cpp/src/nodebuilder.cpp",
+  "output": "yaml-cpp/CMakeFiles/yaml-cpp.dir/src/nodebuilder.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/yaml-cpp",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/yaml-cpp.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\yaml-cpp.dir\\src\\nodeevents.cpp.obj -c C:\\cpp_hackathon\\yaml-cpp\\src\\nodeevents.cpp",
+  "file": "C:/cpp_hackathon/yaml-cpp/src/nodeevents.cpp",
+  "output": "yaml-cpp/CMakeFiles/yaml-cpp.dir/src/nodeevents.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/yaml-cpp",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/yaml-cpp.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\yaml-cpp.dir\\src\\null.cpp.obj -c C:\\cpp_hackathon\\yaml-cpp\\src\\null.cpp",
+  "file": "C:/cpp_hackathon/yaml-cpp/src/null.cpp",
+  "output": "yaml-cpp/CMakeFiles/yaml-cpp.dir/src/null.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/yaml-cpp",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/yaml-cpp.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\yaml-cpp.dir\\src\\ostream_wrapper.cpp.obj -c C:\\cpp_hackathon\\yaml-cpp\\src\\ostream_wrapper.cpp",
+  "file": "C:/cpp_hackathon/yaml-cpp/src/ostream_wrapper.cpp",
+  "output": "yaml-cpp/CMakeFiles/yaml-cpp.dir/src/ostream_wrapper.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/yaml-cpp",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/yaml-cpp.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\yaml-cpp.dir\\src\\parse.cpp.obj -c C:\\cpp_hackathon\\yaml-cpp\\src\\parse.cpp",
+  "file": "C:/cpp_hackathon/yaml-cpp/src/parse.cpp",
+  "output": "yaml-cpp/CMakeFiles/yaml-cpp.dir/src/parse.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/yaml-cpp",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/yaml-cpp.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\yaml-cpp.dir\\src\\parser.cpp.obj -c C:\\cpp_hackathon\\yaml-cpp\\src\\parser.cpp",
+  "file": "C:/cpp_hackathon/yaml-cpp/src/parser.cpp",
+  "output": "yaml-cpp/CMakeFiles/yaml-cpp.dir/src/parser.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/yaml-cpp",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/yaml-cpp.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\yaml-cpp.dir\\src\\regex_yaml.cpp.obj -c C:\\cpp_hackathon\\yaml-cpp\\src\\regex_yaml.cpp",
+  "file": "C:/cpp_hackathon/yaml-cpp/src/regex_yaml.cpp",
+  "output": "yaml-cpp/CMakeFiles/yaml-cpp.dir/src/regex_yaml.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/yaml-cpp",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/yaml-cpp.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\yaml-cpp.dir\\src\\scanner.cpp.obj -c C:\\cpp_hackathon\\yaml-cpp\\src\\scanner.cpp",
+  "file": "C:/cpp_hackathon/yaml-cpp/src/scanner.cpp",
+  "output": "yaml-cpp/CMakeFiles/yaml-cpp.dir/src/scanner.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/yaml-cpp",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/yaml-cpp.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\yaml-cpp.dir\\src\\scanscalar.cpp.obj -c C:\\cpp_hackathon\\yaml-cpp\\src\\scanscalar.cpp",
+  "file": "C:/cpp_hackathon/yaml-cpp/src/scanscalar.cpp",
+  "output": "yaml-cpp/CMakeFiles/yaml-cpp.dir/src/scanscalar.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/yaml-cpp",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/yaml-cpp.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\yaml-cpp.dir\\src\\scantag.cpp.obj -c C:\\cpp_hackathon\\yaml-cpp\\src\\scantag.cpp",
+  "file": "C:/cpp_hackathon/yaml-cpp/src/scantag.cpp",
+  "output": "yaml-cpp/CMakeFiles/yaml-cpp.dir/src/scantag.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/yaml-cpp",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/yaml-cpp.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\yaml-cpp.dir\\src\\scantoken.cpp.obj -c C:\\cpp_hackathon\\yaml-cpp\\src\\scantoken.cpp",
+  "file": "C:/cpp_hackathon/yaml-cpp/src/scantoken.cpp",
+  "output": "yaml-cpp/CMakeFiles/yaml-cpp.dir/src/scantoken.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/yaml-cpp",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/yaml-cpp.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\yaml-cpp.dir\\src\\simplekey.cpp.obj -c C:\\cpp_hackathon\\yaml-cpp\\src\\simplekey.cpp",
+  "file": "C:/cpp_hackathon/yaml-cpp/src/simplekey.cpp",
+  "output": "yaml-cpp/CMakeFiles/yaml-cpp.dir/src/simplekey.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/yaml-cpp",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/yaml-cpp.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\yaml-cpp.dir\\src\\singledocparser.cpp.obj -c C:\\cpp_hackathon\\yaml-cpp\\src\\singledocparser.cpp",
+  "file": "C:/cpp_hackathon/yaml-cpp/src/singledocparser.cpp",
+  "output": "yaml-cpp/CMakeFiles/yaml-cpp.dir/src/singledocparser.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/yaml-cpp",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/yaml-cpp.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\yaml-cpp.dir\\src\\stream.cpp.obj -c C:\\cpp_hackathon\\yaml-cpp\\src\\stream.cpp",
+  "file": "C:/cpp_hackathon/yaml-cpp/src/stream.cpp",
+  "output": "yaml-cpp/CMakeFiles/yaml-cpp.dir/src/stream.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/yaml-cpp",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/yaml-cpp.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\yaml-cpp.dir\\src\\tag.cpp.obj -c C:\\cpp_hackathon\\yaml-cpp\\src\\tag.cpp",
+  "file": "C:/cpp_hackathon/yaml-cpp/src/tag.cpp",
+  "output": "yaml-cpp/CMakeFiles/yaml-cpp.dir/src/tag.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/yaml-cpp/util",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/yaml-cpp-sandbox.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\yaml-cpp-sandbox.dir\\sandbox.cpp.obj -c C:\\cpp_hackathon\\yaml-cpp\\util\\sandbox.cpp",
+  "file": "C:/cpp_hackathon/yaml-cpp/util/sandbox.cpp",
+  "output": "yaml-cpp/util/CMakeFiles/yaml-cpp-sandbox.dir/sandbox.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/yaml-cpp/util",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/yaml-cpp-parse.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\yaml-cpp-parse.dir\\parse.cpp.obj -c C:\\cpp_hackathon\\yaml-cpp\\util\\parse.cpp",
+  "file": "C:/cpp_hackathon/yaml-cpp/util/parse.cpp",
+  "output": "yaml-cpp/util/CMakeFiles/yaml-cpp-parse.dir/parse.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/yaml-cpp/util",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/yaml-cpp-read.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\yaml-cpp-read.dir\\read.cpp.obj -c C:\\cpp_hackathon\\yaml-cpp\\util\\read.cpp",
+  "file": "C:/cpp_hackathon/yaml-cpp/util/read.cpp",
+  "output": "yaml-cpp/util/CMakeFiles/yaml-cpp-read.dir/read.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/googletest/googlemock",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe  @CMakeFiles/gmock.dir/includes_CXX.rsp -g -std=c++14 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c C:\\cpp_hackathon\\googletest\\googlemock\\src\\gmock-all.cc",
+  "file": "C:/cpp_hackathon/googletest/googlemock/src/gmock-all.cc",
+  "output": "googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/googletest/googlemock",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe  @CMakeFiles/gmock_main.dir/includes_CXX.rsp -g -std=c++14 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c C:\\cpp_hackathon\\googletest\\googlemock\\src\\gmock_main.cc",
+  "file": "C:/cpp_hackathon/googletest/googlemock/src/gmock_main.cc",
+  "output": "googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/googletest/googletest",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe  @CMakeFiles/gtest.dir/includes_CXX.rsp -g -std=c++14 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c C:\\cpp_hackathon\\googletest\\googletest\\src\\gtest-all.cc",
+  "file": "C:/cpp_hackathon/googletest/googletest/src/gtest-all.cc",
+  "output": "googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/googletest/googletest",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe  @CMakeFiles/gtest_main.dir/includes_CXX.rsp -g -std=c++14 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c C:\\cpp_hackathon\\googletest\\googletest\\src\\gtest_main.cc",
+  "file": "C:/cpp_hackathon/googletest/googletest/src/gtest_main.cc",
+  "output": "googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/src",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/cPPHackathon.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\cPPHackathon.dir\\Main.cpp.obj -c C:\\cpp_hackathon\\src\\Main.cpp",
+  "file": "C:/cpp_hackathon/src/Main.cpp",
+  "output": "src/CMakeFiles/cPPHackathon.dir/Main.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/src",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/cPPHackathon.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\cPPHackathon.dir\\UtilityFunctions.cpp.obj -c C:\\cpp_hackathon\\src\\UtilityFunctions.cpp",
+  "file": "C:/cpp_hackathon/src/UtilityFunctions.cpp",
+  "output": "src/CMakeFiles/cPPHackathon.dir/UtilityFunctions.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/src",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/cPPHackathon.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\cPPHackathon.dir\\XMLProcessing.cpp.obj -c C:\\cpp_hackathon\\src\\XMLProcessing.cpp",
+  "file": "C:/cpp_hackathon/src/XMLProcessing.cpp",
+  "output": "src/CMakeFiles/cPPHackathon.dir/XMLProcessing.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/src",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/cPPHackathon.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\cPPHackathon.dir\\YAMLProcessing.cpp.obj -c C:\\cpp_hackathon\\src\\YAMLProcessing.cpp",
+  "file": "C:/cpp_hackathon/src/YAMLProcessing.cpp",
+  "output": "src/CMakeFiles/cPPHackathon.dir/YAMLProcessing.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/src",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/cPPHackathon.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\cPPHackathon.dir\\globals.cpp.obj -c C:\\cpp_hackathon\\src\\globals.cpp",
+  "file": "C:/cpp_hackathon/src/globals.cpp",
+  "output": "src/CMakeFiles/cPPHackathon.dir/globals.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/src",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/cPPHackathon.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\cPPHackathon.dir\\__\\tinyxml2\\tinyxml2.cpp.obj -c C:\\cpp_hackathon\\tinyxml2\\tinyxml2.cpp",
+  "file": "C:/cpp_hackathon/tinyxml2/tinyxml2.cpp",
+  "output": "src/CMakeFiles/cPPHackathon.dir/__/tinyxml2/tinyxml2.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/tests",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/cPPHackathon_test1.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\cPPHackathon_test1.dir\\test_main.cpp.obj -c C:\\cpp_hackathon\\tests\\test_main.cpp",
+  "file": "C:/cpp_hackathon/tests/test_main.cpp",
+  "output": "tests/CMakeFiles/cPPHackathon_test1.dir/test_main.cpp.obj"
+},
+{
+  "directory": "C:/cpp_hackathon/build/GCC/Debug/tests",
+  "command": "C:\\TCC\\Tools\\mingw64\\8.1.0_WIN64\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/cPPHackathon_test1.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\cPPHackathon_test1.dir\\__\\tinyxml2\\tinyxml2.cpp.obj -c C:\\cpp_hackathon\\tinyxml2\\tinyxml2.cpp",
+  "file": "C:/cpp_hackathon/tinyxml2/tinyxml2.cpp",
+  "output": "tests/CMakeFiles/cPPHackathon_test1.dir/__/tinyxml2/tinyxml2.cpp.obj"
+}
+]

@@ -1,0 +1,2 @@
+C:\TCC\Tools\mingw64\8.1.0_WIN64\bin\ar.exe qc ..\..\lib\libgtest.a "CMakeFiles/gtest.dir/src/gtest-all.cc.obj"
+C:\TCC\Tools\mingw64\8.1.0_WIN64\bin\ranlib.exe ..\..\lib\libgtest.a

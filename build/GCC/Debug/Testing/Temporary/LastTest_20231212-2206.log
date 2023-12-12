@@ -1,0 +1,68 @@
+Start testing: Dec 13 04:09 India Standard Time
+----------------------------------------------------------
+1/1 Testing: cPPHackathon_test
+1/1 Test: cPPHackathon_test
+Command: "C:/cpp_hackathon/build/GCC/Debug/tests/cPPHackathon_test1.exe"
+Directory: C:/cpp_hackathon/build/GCC/Debug/tests
+"cPPHackathon_test" start time: Dec 13 04:09 India Standard Time
+Output:
+----------------------------------------------------------
+[==========] Running 11 tests from 2 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from ProcessCompuValuesTest
+[ RUN      ] ProcessCompuValuesTest.ReturnsCorrectValues
+C:\cpp_hackathon\tests\test_main.cpp:69: Failure
+Expected equality of these values:
+  result.size()
+    Which is: 0
+  2
+
+[  FAILED  ] ProcessCompuValuesTest.ReturnsCorrectValues (0 ms)
+[----------] 1 test from ProcessCompuValuesTest (0 ms total)
+
+[----------] 10 tests from UtilityFunctionTests
+[ RUN      ] UtilityFunctionTests.SplitStringBasic
+[       OK ] UtilityFunctionTests.SplitStringBasic (0 ms)
+[ RUN      ] UtilityFunctionTests.SplitStringNoDelimiter
+[       OK ] UtilityFunctionTests.SplitStringNoDelimiter (0 ms)
+[ RUN      ] UtilityFunctionTests.SplitStringConsecutiveDelimiters
+[       OK ] UtilityFunctionTests.SplitStringConsecutiveDelimiters (0 ms)
+[ RUN      ] UtilityFunctionTests.SplitStringDelimiterStartEnd
+C:\cpp_hackathon\tests\test_main.cpp:111: Failure
+Expected equality of these values:
+  result.size()
+    Which is: 3
+  4
+
+[  FAILED  ] UtilityFunctionTests.SplitStringDelimiterStartEnd (0 ms)
+[ RUN      ] UtilityFunctionTests.SplitStringEmpty
+[       OK ] UtilityFunctionTests.SplitStringEmpty (0 ms)
+[ RUN      ] UtilityFunctionTests.GetChildElementTextExisting
+[       OK ] UtilityFunctionTests.GetChildElementTextExisting (0 ms)
+[ RUN      ] UtilityFunctionTests.GetChildElementTextNonExisting
+[       OK ] UtilityFunctionTests.GetChildElementTextNonExisting (0 ms)
+[ RUN      ] UtilityFunctionTests.GetChildElementTextMultipleChildren
+[       OK ] UtilityFunctionTests.GetChildElementTextMultipleChildren (0 ms)
+[ RUN      ] UtilityFunctionTests.GetChildElementTextNestedChild
+[       OK ] UtilityFunctionTests.GetChildElementTextNestedChild (0 ms)
+[ RUN      ] UtilityFunctionTests.GetChildElementTextNullParent
+[       OK ] UtilityFunctionTests.GetChildElementTextNullParent (0 ms)
+[----------] 10 tests from UtilityFunctionTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 11 tests from 2 test suites ran. (0 ms total)
+[  PASSED  ] 9 tests.
+[  FAILED  ] 2 tests, listed below:
+[  FAILED  ] ProcessCompuValuesTest.ReturnsCorrectValues
+[  FAILED  ] UtilityFunctionTests.SplitStringDelimiterStartEnd
+
+ 2 FAILED TESTS
+<end of output>
+Test time =   0.38 sec
+----------------------------------------------------------
+Test Failed.
+"cPPHackathon_test" end time: Dec 13 04:09 India Standard Time
+"cPPHackathon_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 13 04:09 India Standard Time

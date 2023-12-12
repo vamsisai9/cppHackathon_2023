@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20231212-2206-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.26.4"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="BANO-C-000R7"
+	OSRelease=" Professional"
+	OSVersion=" (Build 19045)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="5"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="37212"
+	TotalPhysicalMemory="32348"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2712"
+	>
+	<Testing>
+		<StartDateTime>Dec 13 04:09 India Standard Time</StartDateTime>
+		<StartTestTime>1702420786</StartTestTime>
+		<TestList>
+			<Test>./tests/cPPHackathon_test</Test>
+		</TestList>
+		<Test Status="failed">
+			<Name>cPPHackathon_test</Name>
+			<Path>./tests</Path>
+			<FullName>./tests/cPPHackathon_test</FullName>
+			<FullCommandLine>C:\cpp_hackathon\build\GCC\Debug\tests\cPPHackathon_test1.exe</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>Failed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.382418</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\cpp_hackathon\build\GCC\Debug\tests\cPPHackathon_test1.exe</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJytVVFv2jAQfvevuMcijQi6aVIj7aGjoZq2MURo90BR5YbrYs2xM/tM6X79nGRKAVFGkvkhke37vvvufLpbfKjXEmZOKaF+wHAIhJYsPBqdwXm5AeuE/wds0a/XEq6lfuCyMkC1FkarDJU3Ruq7fM+4Yq1Ip0YnaO1IZ7m75dKhnfs7toDZzQTKtXzFJpghOaP8sTGYUHXBRuFdkuf3KU9+ckq1uisDKL/3GRcq8Lfh+4sQxlxIZ5BFm9yjcQX4y3Ep6Bn0I1CKFmFdUoYMwKB1kgIrfuNZjxWqvqciSUHYEAZ+f868YhhffvoSXTVUDGcDyGyvaYYqGJAmLntsDz3YfrYbEkVYY6cSEloVYLub30MWQZz7s5iMr4OP3IqkCLBc3z6fCqlDa+Jsoq9QiszXmGnmcgvYyvFIK4uJI7HGmsg2k3CQopWYGh4TNxSp1WmFPRwO/2Nlv/X7d3uV3Vh4q/CjLKfnZrkvIac7u0YapUKuIolFo5rjhqKNsOSZTvB7BN1JwkSrbiq2CDoJ+eqLQuQSy3ODqp2afZZuufEXuCpPW+bmhaCbECfllPtwqKWOGn+49/+zex/r/a8NYkJu+iv95F9ye9IfmfBguAp2Xflwp5dxXHWCiwoZ7PaHisK+ASmKbMMDSv0Utp6OHZsPY17QX/w8iucx+wMC8gPp====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Dec 13 04:09 India Standard Time</EndDateTime>
+		<EndTestTime>1702420786</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
